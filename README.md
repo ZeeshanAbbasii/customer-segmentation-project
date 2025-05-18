@@ -59,10 +59,6 @@ Install all at once with:
 
 pip install -r requirements.txt
 
-About the Author
-
-Zeeshan Abbasi — Internship project on Customer Segmentation.
-Reach out for questions or collaboration!
 
 Thank you for checking out the project! Feel free to explore and build on it.
 
